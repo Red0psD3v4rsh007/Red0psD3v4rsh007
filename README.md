@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Devarsh
 
-<!--
-**Red0psD3v4rsh007/Red0psD3v4rsh007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student focused on **Offensive Security (Pentesting / Red Teaming)**.  
+I build labs, tools, and writeups — not fake projects.
 
-Here are some ideas to get you started:
+## 🔥 Current Focus
+- Web Pentesting (OWASP Top 10)
+- Active Directory Attacks & Privilege Escalation
+- Recon + automation scripts (Python/Bash)
+- CTF practice (TryHackMe / HackTheBox)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- **Pentest:** Nmap, Burp Suite, Metasploit, BloodHound, Wireshark
+- **OS:** Kali Linux, Windows
+- **Scripting:** Python, Bash
+- **Notes/Docs:** Markdown
+
+## 📌 Featured Work
+- 🧪 Pentesting labs & AD notes
+- 🔎 Recon scripts + automation tooling
+- 🛡️ Security writeups (CTFs / OWASP)
+
+## 📫 Connect
+- GitHub: @<your-username>
+- LinkedIn: <your-link>
