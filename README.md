@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Devarsh
 
 Cybersecurity student focused on **Offensive Security (Pentesting / Red Teaming)**.  
-I build labs and writeups - not fake projects.
 
 ## 🔥 Current Focus
 - Web Pentesting (OWASP Top 10)
 - Active Directory Attacks & Privilege Escalation
 - Recon + automation scripts (Python/Bash)
-- CTF practice (TryHackMe / HackTheBox)
+- CTF practice
+- TryHakeMe
 
 ## 🧰 Tech Stack
-- **Pentest:** Nmap, Burp Suite, Metasploit, BloodHound, Wireshark
-- **OS:** Kali Linux, Windows
+- **Pentest:** Nmap, Burp Suite, Metasploit, sqlmap, Impacket, Responder, CrackMapExec, Wireshark, Hydra, John the Ripper
+- **Systems:** Kali Linux, Ubuntu, Windows 11; VirtualBox/VMware
 - **Scripting:** Python, Bash
 - **Notes/Docs:** Markdown
 
