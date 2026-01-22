@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Devarsh
 
 Cybersecurity student focused on **Offensive Security (Pentesting / Red Teaming)**.  
-I build labs and writeups — not fake projects.
+I build labs and writeups - not fake projects.
 
 ## 🔥 Current Focus
 - Web Pentesting (OWASP Top 10)
@@ -22,4 +22,4 @@ I build labs and writeups — not fake projects.
 
 ## 📫 Connect
 - GitHub: @Red0psD3v4rsh007
-- LinkedIn: https://www.linkedin.com/in/devarshdalwadi/
+- LinkedIn: https://www.linkedin.com/in/devarshdalwadi
