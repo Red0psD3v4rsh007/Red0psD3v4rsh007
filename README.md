@@ -21,5 +21,5 @@ I build labs, tools, and writeups — not fake projects.
 - 🛡️ Security writeups (CTFs / OWASP)
 
 ## 📫 Connect
-- GitHub: @<your-username>
-- LinkedIn: <your-link>
+- GitHub: @Red0psD3v4rsh007
+- LinkedIn: http://linkedin.com/in/devarshdalwadi
