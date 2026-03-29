@@ -220,13 +220,6 @@ operations:
 
 <div align="center">
 
-<!-- TROPHY SHELF -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Red0psD3v4rsh007&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" width="90%"/>
-</a>
-
-<br/><br/>
-
 <!-- STATS BADGES -->
 ![Stars](https://img.shields.io/github/stars/Red0psD3v4rsh007?style=for-the-badge&color=ff0033&labelColor=0d1117&logo=github&logoColor=ffffff&label=Stars)
 &nbsp;
