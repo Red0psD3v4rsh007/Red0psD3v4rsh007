@@ -1,97 +1,116 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- HEADER: Dark-to-red animated gradient wave               -->
+<!--               R E D 0 P S  //  D E V A R S H              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0000,100:ff0033&height=220&section=header&text=DEVARSH&fontColor=ffffff&fontSize=72&fontAlignY=35&desc=Offensive%20Security%20%2F%2F%20Red%20Team%20Ops&descAlignY=55&descSize=18&descColor=ff003399&animation=fadeIn&fontAlign=50" width="100%"/>
+
+<!-- CUSTOM BANNER -->
+<img src="./assets/banner.png" width="100%"/>
 
 <div align="center">
 
-<!-- ANIMATED TYPING -->
+<!-- ANIMATED TYPING: the first thing visitors see -->
 <a href="https://github.com/Red0psD3v4rsh007">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=FF0033&center=true&vCenter=true&repeat=true&width=620&height=45&lines=%24+./red0ps+--mode+offensive;Pentester+%7C+Red+Teamer+%7C+Security+Researcher;TryHackMe+Top+2%25+%7C+190%2B+Rooms+Solved;Building+Pentra+%E2%80%94+Autonomous+Pentest+Engine;echo+%22Access+Granted.%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=FF0033&center=true&vCenter=true&repeat=true&width=700&height=50&lines=%E2%94%8C%E2%94%80%E2%94%80(red0ps%E3%89%BFkali)-%5B~%5D;%24+whoami+%E2%86%92+Offensive+Security+%7C+Red+Team+Ops;TryHackMe+Top+2%25+%E2%80%A2+190%2B+Rooms+%E2%80%A2+27+Badges;Building+Pentra+%E2%80%94+Autonomous+Pentest+Engine;%24+echo+%22Access+Granted.%22" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+<!-- SOCIAL ROW -->
+<a href="https://www.linkedin.com/in/devarshdalwadi">
+  <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=ff0033" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://tryhackme.com/p/Red0psD3v4rsh007">
+  <img src="https://img.shields.io/badge/-TryHackMe-0d1117?style=flat-square&logo=tryhackme&logoColor=ff0033" alt="TryHackMe"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://cryptohack.org/user/Red0psD3v4rsh007/">
+  <img src="https://img.shields.io/badge/-CryptoHack-0d1117?style=flat-square&logo=letsencrypt&logoColor=ff0033" alt="CryptoHack"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Red0psD3v4rsh007">
+  <img src="https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=ff0033" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<!-- QUICK STATS ROW -->
+<img src="https://komarev.com/ghpvc/?username=Red0psD3v4rsh007&label=PROFILE+VIEWS&color=ff0033&style=flat-square&labelColor=0d1117" alt="Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Red0psD3v4rsh007?label=Followers&style=flat-square&color=ff0033&labelColor=0d1117&logo=github&logoColor=ffffff" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/TryHackMe-Top_2%25-ff0033?style=flat-square&logo=tryhackme&logoColor=ffffff&labelColor=0d1117" alt="THM"/>
+
+</div>
 
 <br/>
 
-<!-- STATUS BADGES -->
-<img src="https://komarev.com/ghpvc/?username=Red0psD3v4rsh007&label=PROFILE+VIEWS&color=ff0033&style=flat-square" alt="Views"/>
-&nbsp;
-<a href="https://github.com/Red0psD3v4rsh007?tab=followers">
-  <img src="https://img.shields.io/github/followers/Red0psD3v4rsh007?label=Followers&style=flat-square&color=ff0033&labelColor=0d1117&logo=github&logoColor=ffffff" alt="Followers"/>
-</a>
-&nbsp;
-<a href="https://tryhackme.com/p/Red0psD3v4rsh007">
-  <img src="https://img.shields.io/badge/TryHackMe-Top_2%25-ff0033?style=flat-square&logo=tryhackme&logoColor=ffffff&labelColor=0d1117" alt="TryHackMe"/>
-</a>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- ANIMATED DIVIDER                                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- ABOUT                                                      -->
+<!-- IDENTITY                                                    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<div align="center">
+```
+ ╔═══════════════════════════════════════════════════════════════════════╗
+ ║                                                                       ║
+ ║  ┌──(red0ps㉿kali)-[~/whoami]                                        ║
+ ║  └─$ cat /etc/shadow                                                  ║
+ ║                                                                       ║
+ ║  Name        Devarsh Dalwadi                                          ║
+ ║  Alias       Red0ps                                                   ║
+ ║  Class       Offensive Security Student & Researcher                  ║
+ ║  Focus       Penetration Testing • Web Security • AD Attacks          ║
+ ║  Training    TryHackMe Top 2% • PortSwigger • CryptoHack             ║
+ ║  Building    Pentra — Autonomous Offensive Security Platform          ║
+ ║                                                                       ║
+ ║  "I don't find bugs. I find entry points."                            ║
+ ║                                                                       ║
+ ╚═══════════════════════════════════════════════════════════════════════╝
+```
 
-```
-┌──(red0ps㉿kali)-[~/whoami]
-└─$ cat /etc/shadow
-```
-
-</div>
-
-```
- ╔═══════════════════════════════════════════════════════════════════╗
- ║                                                                   ║
- ║  Name         Devarsh Dalwadi                                     ║
- ║  Alias        Red0ps                                              ║
- ║  Role         Offensive Security Student & Researcher             ║
- ║                                                                   ║
- ║  Focus        Penetration Testing • Web Security • AD Attacks     ║
- ║  Building     Pentra — Autonomous Offensive Security Platform     ║
- ║  Approach     "I don't find bugs. I find entry points."           ║
- ║                                                                   ║
- ╚═══════════════════════════════════════════════════════════════════╝
-```
+<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- CERTIFICATIONS & ACHIEVEMENTS                              -->
+<!-- CERTIFICATIONS                                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ### `> cat /etc/certs.d/`
 
-</div>
-
-<div align="center">
+<br/>
 
 <a href="https://tryhackme.com/p/Red0psD3v4rsh007">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Red0psD3v4rsh007.png" alt="TryHackMe Badge" height="90"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Red0psD3v4rsh007.png" alt="TryHackMe" height="90"/>
 </a>
 
 <br/><br/>
 
-![THM Top 2%](https://img.shields.io/badge/TryHackMe-Top_2%25_|_190+_Rooms_|_27_Badges-ff0033?style=for-the-badge&logo=tryhackme&logoColor=ffffff&labelColor=0d1117)
+![THM](https://img.shields.io/badge/TryHackMe-Top_2%25_•_190+_Rooms_•_27_Badges-ff0033?style=for-the-badge&logo=tryhackme&logoColor=ffffff&labelColor=0d1117)
 
 <br/>
 
-![PNPT](https://img.shields.io/badge/TCM_Security-PNPT_(In_Progress)-ff6633?style=flat-square&labelColor=0d1117&logo=hackthebox&logoColor=ff6633)
-&nbsp;
-![Jr Pentester](https://img.shields.io/badge/TryHackMe-Jr_Penetration_Tester-ff0033?style=flat-square&labelColor=0d1117&logo=tryhackme&logoColor=ffffff)
-&nbsp;
-![Web Fundamentals](https://img.shields.io/badge/TryHackMe-Web_Fundamentals-ff0033?style=flat-square&labelColor=0d1117&logo=tryhackme&logoColor=ffffff)
-&nbsp;
-![Cyber 101](https://img.shields.io/badge/TryHackMe-Cybersecurity_101-ff0033?style=flat-square&labelColor=0d1117&logo=tryhackme&logoColor=ffffff)
+![PNPT](https://img.shields.io/badge/PNPT-In_Progress-ff6633?style=flat-square&labelColor=0d1117&logo=hackthebox&logoColor=ff6633)
+&ensp;
+![Jr Pentester](https://img.shields.io/badge/Jr_Penetration_Tester-✓-ff0033?style=flat-square&labelColor=0d1117&logo=tryhackme&logoColor=ffffff)
+&ensp;
+![Web Fund](https://img.shields.io/badge/Web_Fundamentals-✓-ff0033?style=flat-square&labelColor=0d1117&logo=tryhackme&logoColor=ffffff)
+&ensp;
+![Cyber 101](https://img.shields.io/badge/Cybersecurity_101-✓-ff0033?style=flat-square&labelColor=0d1117&logo=tryhackme&logoColor=ffffff)
 
 </div>
 
+<br/>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- ACTIVE OPERATIONS                                          -->
@@ -105,8 +124,9 @@ operations:
   - name: "Web Application Pentesting"
     status: ACTIVE
     since: 2024
-    scope: [ OWASP Top 10, SQLi, XSS, CSRF, SSRF, IDOR, Auth Bypass ]
+    scope: [ OWASP Top 10, SQLi, XSS, CSRF, SSRF, IDOR, Auth Bypass, File Inclusion ]
     training: [ PortSwigger Academy, DVWA, Juice Shop, WebGoat ]
+    methodology: [ Recon → Enumeration → Exploitation → Reporting ]
 
   - name: "Active Directory Exploitation"
     status: ACTIVE
@@ -120,7 +140,7 @@ operations:
     since: 2026
     desc: "PTaaS-style automated web security testing platform"
     stack: [ Next.js, TypeScript, Tailwind CSS, FastAPI, Redis, PostgreSQL ]
-    features: [ Attack-path visualization, Vuln reporting pipelines,
+    features: [ Attack-path visualization (xyflow), Vuln reporting pipelines,
                 Interactive dashboards, Recon automation ]
 
   - name: "CTF / Research"
@@ -129,7 +149,11 @@ operations:
     domains: [ web, OSINT, crypto, forensics, privilege escalation ]
 ```
 
+<br/>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- ARSENAL                                                    -->
@@ -170,46 +194,23 @@ operations:
 
 <img src="https://skillicons.dev/icons?i=python,c,js,bash,linux,kali,docker,postgres,redis,git,vscode&theme=dark&perline=11" />
 
+<br/>
+
 **`PLATFORMS`**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=557C94)
+![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=557C94)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-0d1117?style=flat-square&logo=ubuntu&logoColor=E95420)
 ![Windows](https://img.shields.io/badge/Windows_11-0d1117?style=flat-square&logo=windows11&logoColor=0078D4)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-0d1117?style=flat-square&logo=virtualbox&logoColor=183A61)
+![VBox](https://img.shields.io/badge/VirtualBox-0d1117?style=flat-square&logo=virtualbox&logoColor=183A61)
 ![VMware](https://img.shields.io/badge/VMware-0d1117?style=flat-square&logo=vmware&logoColor=607078)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- SKILL LEVELS                                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-### `> nc -lvp 443`
-
-```
- listening on [any] 443 ...
- connection from Red0ps [verified]
-
- ┌─────────────────────────────────────────────────────────────────┐
- │                                                                 │
- │  ▸ Web App Pentesting      ████████████████████████████░░  90%  │
- │  ▸ OWASP Top 10            ████████████████████████████░░  90%  │
- │  ▸ Active Directory         ██████████████████████████░░░░  80%  │
- │  ▸ Network Pentesting       ████████████████████████░░░░░░  75%  │
- │  ▸ Python Scripting         ██████████████████████████████  100% │
- │  ▸ Bash Automation          ██████████████████████████░░░░  80%  │
- │  ▸ CTF / Challenges         ████████████████████████████░░  90%  │
- │  ▸ Cryptography             ██████████████████████░░░░░░░░  65%  │
- │  ▸ Privilege Escalation     ████████████████████████░░░░░░  75%  │
- │  ▸ Exploit Development      ████████████████░░░░░░░░░░░░░░  50%  │
- │                                                                 │
- │  session established • TryHackMe Top 2% • 190+ rooms           │
- └─────────────────────────────────────────────────────────────────┘
-```
+<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- GITHUB STATS                                               -->
@@ -219,7 +220,15 @@ operations:
 
 <div align="center">
 
-![Stars](https://img.shields.io/github/stars/Red0psD3v4rsh007?style=for-the-badge&color=ff0033&labelColor=0d1117&logo=github&logoColor=ffffff&label=Total%20Stars)
+<!-- TROPHY SHELF -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Red0psD3v4rsh007&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" width="90%"/>
+</a>
+
+<br/><br/>
+
+<!-- STATS BADGES -->
+![Stars](https://img.shields.io/github/stars/Red0psD3v4rsh007?style=for-the-badge&color=ff0033&labelColor=0d1117&logo=github&logoColor=ffffff&label=Stars)
 &nbsp;
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRed0psD3v4rsh007&query=%24.public_repos&style=for-the-badge&color=ff0033&labelColor=0d1117&logo=github&logoColor=ffffff&label=Repos)
 &nbsp;
@@ -227,19 +236,25 @@ operations:
 
 <br/><br/>
 
+<!-- STREAK -->
 <a href="https://github.com/Red0psD3v4rsh007">
   <img src="https://streak-stats.demolab.com/?user=Red0psD3v4rsh007&theme=radical&background=0d1117&border=1a1a2e&stroke=1a1a2e&ring=ff0033&fire=ff6633&currStreakNum=ffffff&sideNums=a0a0a0&currStreakLabel=ff0033&sideLabels=ff0033&dates=545454" alt="Streak"/>
 </a>
 
 <br/><br/>
 
+<!-- ACTIVITY GRAPH -->
 <a href="https://github.com/Red0psD3v4rsh007">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Red0psD3v4rsh007&bg_color=0d1117&color=ff0033&line=ff0033&point=ffffff&area=true&area_color=ff003315&hide_border=true&custom_title=Commit%20Activity" alt="Activity Graph" width="95%"/>
 </a>
 
 </div>
 
+<br/>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- FEATURED PROJECTS                                          -->
@@ -252,52 +267,55 @@ operations:
 <a href="https://github.com/Red0psD3v4rsh007/Pentra">
   <img src="https://img.shields.io/badge/🔴_PENTRA-Autonomous_Offensive_Security_Platform-ff0033?style=for-the-badge&labelColor=0d1117" alt="Pentra"/>
 </a>
+
 <br/>
-<a href="https://github.com/Red0psD3v4rsh007/Pentra">
-  <img src="https://img.shields.io/github/stars/Red0psD3v4rsh007/Pentra?style=flat-square&color=ff0033&labelColor=0d1117&logo=github" alt="Stars"/>
-</a>
+
+<a href="https://github.com/Red0psD3v4rsh007/Pentra"><img src="https://img.shields.io/github/stars/Red0psD3v4rsh007/Pentra?style=flat-square&color=ff0033&labelColor=0d1117&logo=github" alt="Stars"/></a>
 &nbsp;
-<a href="https://github.com/Red0psD3v4rsh007/Pentra">
-  <img src="https://img.shields.io/github/last-commit/Red0psD3v4rsh007/Pentra?style=flat-square&color=ff0033&labelColor=0d1117&logo=git&logoColor=ffffff" alt="Last Commit"/>
-</a>
+<a href="https://github.com/Red0psD3v4rsh007/Pentra"><img src="https://img.shields.io/github/last-commit/Red0psD3v4rsh007/Pentra?style=flat-square&color=ff0033&labelColor=0d1117&logo=git&logoColor=ffffff" alt="Commit"/></a>
 &nbsp;
-<a href="https://github.com/Red0psD3v4rsh007/Pentra">
-  <img src="https://img.shields.io/github/languages/top/Red0psD3v4rsh007/Pentra?style=flat-square&color=ff0033&labelColor=0d1117" alt="Language"/>
-</a>
+<a href="https://github.com/Red0psD3v4rsh007/Pentra"><img src="https://img.shields.io/github/languages/top/Red0psD3v4rsh007/Pentra?style=flat-square&color=ff0033&labelColor=0d1117" alt="Lang"/></a>
 
 </div>
 
 ```
- ╔═══════════════════════════════════════════════════════════════════╗
- ║                                                                   ║
- ║  PENTRA — PTaaS-Style Automated Security Testing Platform        ║
- ║  ════════════════════════════════════════════════                  ║
- ║                                                                   ║
- ║  Automated web security testing with attack-path visualization,  ║
- ║  vulnerability reporting pipelines, and interactive dashboards.  ║
- ║                                                                   ║
- ║  Stack: Next.js • TypeScript • Tailwind • FastAPI • Redis • PG   ║
- ║  UI:    Obsidian Design System (dark-mode command center)        ║
- ║  Status: ACTIVE DEVELOPMENT ●                                    ║
- ║                                                                   ║
- ╚═══════════════════════════════════════════════════════════════════╝
+ ╔═══════════════════════════════════════════════════════════════════════╗
+ ║                                                                       ║
+ ║  PENTRA — PTaaS-Style Automated Security Testing Platform            ║
+ ║  ════════════════════════════════════════════════                      ║
+ ║                                                                       ║
+ ║  Automated web application security testing with attack-path          ║
+ ║  visualization (xyflow), vulnerability reporting pipelines,           ║
+ ║  and interactive dashboards for recon & structured pentesting.        ║
+ ║                                                                       ║
+ ║  Stack: Next.js • TypeScript • Tailwind • FastAPI • Redis • PG       ║
+ ║  UI:    Obsidian Design System (dark-mode command center)            ║
+ ║  Status: ACTIVE DEVELOPMENT ●                                        ║
+ ║                                                                       ║
+ ╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
 ```
- ╔═══════════════════════════════════════════════════════════════════╗
- ║  AD PENTEST LAB — Self-Hosted Windows Environment               ║
- ║  ════════════════════════════════════════════                     ║
- ║                                                                   ║
- ║  Simulated enterprise Active Directory for practicing:           ║
- ║  Kerberoasting • AS-REP Roasting • LLMNR/NBT-NS Poisoning       ║
- ║  NTLM Relay • Pass-the-Hash • Lateral Movement                  ║
- ║                                                                   ║
- ║  Env: Windows Server + Workstations (VirtualBox)                 ║
- ║  Status: OPERATIONAL ●                                            ║
- ╚═══════════════════════════════════════════════════════════════════╝
+ ╔═══════════════════════════════════════════════════════════════════════╗
+ ║                                                                       ║
+ ║  AD PENTEST LAB — Self-Hosted Windows Environment                    ║
+ ║  ════════════════════════════════════════════════                      ║
+ ║                                                                       ║
+ ║  Simulated enterprise AD for practicing real-world attack paths:     ║
+ ║  Kerberoasting • AS-REP Roasting • LLMNR/NBT-NS Poisoning           ║
+ ║  NTLM Relay • Pass-the-Hash • Pass-the-Ticket • Golden Ticket       ║
+ ║                                                                       ║
+ ║  Env: Windows Server + Workstations (VirtualBox)                     ║
+ ║  Status: OPERATIONAL ●                                                ║
+ ║                                                                       ║
+ ╚═══════════════════════════════════════════════════════════════════════╝
 ```
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- CONTRIBUTION SNAKE                                         -->
@@ -315,33 +333,31 @@ operations:
 
 </div>
 
+<br/>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- CONNECT                                                    -->
+<!-- HACKER QUOTE                                               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### `> cat /etc/hosts`
-
-<a href="https://www.linkedin.com/in/devarshdalwadi">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff0033" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/Red0psD3v4rsh007">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ff0033" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://tryhackme.com/p/Red0psD3v4rsh007">
-  <img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=ff0033" alt="TryHackMe"/>
-</a>
-&nbsp;
-<a href="https://cryptohack.org/user/Red0psD3v4rsh007/">
-  <img src="https://img.shields.io/badge/CryptoHack-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=ff0033" alt="CryptoHack"/>
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=The%20quieter%20you%20become%2C%20the%20more%20you%20are%20able%20to%20hear.&author=BackTrack%20Linux" alt="Quote"/>
 </a>
 
-<br/><br/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FOOTER                                                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 ```
 ┌──(red0ps㉿kali)-[~]
@@ -350,9 +366,7 @@ Thanks for stopping by. Stay sharp, stay offensive.
 └─$ █
 ```
 
-<sub>built by <a href="https://github.com/Red0psD3v4rsh007">@Red0psD3v4rsh007</a></sub>
-
 </div>
 
-<!-- FOOTER -->
+<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0033,50:1a0000,100:0d1117&height=120&section=footer" width="100%"/>
