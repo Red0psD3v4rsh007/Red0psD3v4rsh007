@@ -1,12 +1,13 @@
 name: Generate Stats Cards
 
+# Requires METRICS_TOKEN secret (GitHub PAT with repo scope).
+# Add it at: Settings → Secrets → Actions → New repository secret
+# Until then, this workflow will skip all steps.
+
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
