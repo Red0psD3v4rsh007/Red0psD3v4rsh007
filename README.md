@@ -57,7 +57,7 @@
 <div align="center">
 
 <a href="https://tryhackme.com/p/Red0psD3v4rsh007">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Red0psD3v4rsh007.png" alt="TryHackMe" height="90"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Red0psD3v4rsh007.png?v=2026032920" alt="TryHackMe" height="90"/>
 </a>
 
 <br/><br/>
