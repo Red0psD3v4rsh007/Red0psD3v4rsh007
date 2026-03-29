@@ -1,313 +1,149 @@
+<!-- HEADER: Capsule Render — clean dark gradient wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0000,100:ff0033&height=220&section=header&text=DEVARSH&fontColor=ffffff&fontSize=72&fontAlignY=35&desc=Offensive%20Security%20%2F%2F%20Red%20Team%20Ops&descAlignY=55&descSize=18&descColor=ff003399&animation=fadeIn&fontAlign=50" width="100%"/>
+
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="./assets/banner.png" alt="RED0PS Banner" width="100%"/>
-
-<br/>
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%E2%94%8C%E2%94%80%E2%94%80(root%40red0ps)-%5B~%2Foffensive-sec%5D;%E2%94%94%E2%94%80%24+Breaching+the+perimeter..." alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- VISITOR BADGE + PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=Red0psD3v4rsh007&label=TARGET+SCANNED&color=dc143c&style=for-the-badge&logo=target" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/Red0psD3v4rsh007?tab=followers">
-  <img src="https://img.shields.io/github/followers/Red0psD3v4rsh007?label=Followers&style=for-the-badge&color=0d1117&labelColor=0d1117&logo=github&logoColor=ff0033" alt="Followers"/>
+<!-- TYPING EFFECT — simulates a terminal session -->
+<a href="https://github.com/Red0psD3v4rsh007">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1500&color=FF0033&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%24+./exploit.sh+--target+*;Pentester+%7C+Red+Teamer+%7C+Security+Researcher;Building+Pentra+%E2%80%94+Autonomous+Offensive+Engine;OWASP+%7C+Active+Directory+%7C+CTF+Player" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/devarshdalwadi">
-  <img src="https://img.shields.io/badge/-devarshdalwadi-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=ff0033" alt="LinkedIn"/>
+<!-- STATUS BADGES -->
+<img src="https://komarev.com/ghpvc/?username=Red0psD3v4rsh007&label=PROFILE+VIEWS&color=ff0033&style=flat-square" alt="Profile Views"/>
+&nbsp;&nbsp;
+<a href="https://github.com/Red0psD3v4rsh007?tab=followers">
+  <img src="https://img.shields.io/github/followers/Red0psD3v4rsh007?label=Followers&style=flat-square&color=ff0033&labelColor=0d1117&logo=github&logoColor=ffffff" alt="Followers"/>
 </a>
-&nbsp;
-<a href="https://github.com/Red0psD3v4rsh007">
-  <img src="https://img.shields.io/badge/-Red0psD3v4rsh007-0A0A0A?style=for-the-badge&logo=github&logoColor=ff0033" alt="GitHub"/>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/devarshdalwadi">
+  <img src="https://img.shields.io/badge/LinkedIn-ff0033?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
 
-<br/>
+---
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+### `$ cat /etc/identity`
 
-## `> whoami`
-
-```bash
-┌──(devarsh㉿red0ps)-[~/about]
-└─$ cat identity.txt
-
-  ╔══════════════════════════════════════════════════════════════╗
-  ║                                                              ║
-  ║   Name     : Devarsh                                         ║
-  ║   Alias    : Red0ps                                          ║
-  ║   Role     : Offensive Security Operator                     ║
-  ║   Focus    : Penetration Testing | Red Teaming               ║
-  ║   Mission  : Break it. Report it. Fix it.                    ║
-  ║                                                              ║
-  ║   "I don't find bugs. I find entry points."                  ║
-  ║                                                              ║
-  ╚══════════════════════════════════════════════════════════════╝
+```
+Name        Devarsh
+Alias       Red0ps
+Role        Offensive Security Operator
+Focus       Penetration Testing • Red Teaming • Exploit Development
+Building    Pentra — AI-driven autonomous pentesting platform
+Philosophy  "I don't find bugs. I find entry points."
 ```
 
-<br/>
+---
 
-## `>cat /etc/current_ops.conf`
-
-```yaml
-# ============================================
-# ACTIVE OPERATIONS — CLASSIFIED
-# ============================================
-
-current_focus:
-  - target: "Web Application Pentesting"
-    status: "ACTIVE"
-    scope: "OWASP Top 10 | API Security | Auth Bypass"
-
-  - target: "Active Directory Exploitation"
-    status: "ACTIVE"
-    scope: "Kerberoasting | Priv Esc | Lateral Movement"
-
-  - target: "Pentra Platform Development"
-    status: "IN PROGRESS"
-    scope: "Autonomous Offensive Security Engine"
-
-  - target: "Automation & Tooling"
-    status: "ONGOING"
-    scope: "Python/Bash Recon Scripts | Custom Exploit Dev"
-
-  - target: "CTF Competitions"
-    status: "CONTINUOUS"
-    scope: "pwn | web | forensics | crypto"
-```
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> ls -la /opt/arsenal/`
+### `$ ls /opt/arsenal/`
 
 <div align="center">
 
-### ⚔️ Offensive Arsenal
+**`OFFENSIVE TOOLS`**
 
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/-Nmap-0A0A0A?style=flat-square&logo=nmap&logoColor=ff0033" alt="Nmap"/><br/>
-<sub><b>Nmap</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/-Burp_Suite-0A0A0A?style=flat-square&logo=portswigger&logoColor=ff6633" alt="Burp Suite"/><br/>
-<sub><b>Burp Suite</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/-Metasploit-0A0A0A?style=flat-square&logo=metasploit&logoColor=2596CD" alt="Metasploit"/><br/>
-<sub><b>Metasploit</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/-sqlmap-0A0A0A?style=flat-square&logo=databricks&logoColor=ff0033" alt="sqlmap"/><br/>
-<sub><b>sqlmap</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/-Wireshark-0A0A0A?style=flat-square&logo=wireshark&logoColor=1679A7" alt="Wireshark"/><br/>
-<sub><b>Wireshark</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/-Impacket-0A0A0A?style=flat-square&logo=python&logoColor=ff0033" alt="Impacket"/><br/>
-<sub><b>Impacket</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/-Responder-0A0A0A?style=flat-square&logo=linux&logoColor=ff0033" alt="Responder"/><br/>
-<sub><b>Responder</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/-CrackMapExec-0A0A0A?style=flat-square&logo=windows-terminal&logoColor=ff0033" alt="CrackMapExec"/><br/>
-<sub><b>CrackMapExec</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/-Hydra-0A0A0A?style=flat-square&logo=gnubash&logoColor=00ff41" alt="Hydra"/><br/>
-<sub><b>Hydra</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/-John-0A0A0A?style=flat-square&logo=hashicorp&logoColor=ff0033" alt="John the Ripper"/><br/>
-<sub><b>John</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/-Nuclei-0A0A0A?style=flat-square&logo=cloudflare&logoColor=ff0033" alt="Nuclei"/><br/>
-<sub><b>Nuclei</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/-Dalfox-0A0A0A?style=flat-square&logo=firefox&logoColor=ff6633" alt="Dalfox"/><br/>
-<sub><b>Dalfox</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/-Semgrep-0A0A0A?style=flat-square&logo=semgrep&logoColor=00ff41" alt="Semgrep"/><br/>
-<sub><b>Semgrep</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/-TruffleHog-0A0A0A?style=flat-square&logo=git&logoColor=ff0033" alt="TruffleHog"/><br/>
-<sub><b>TruffleHog</b></sub>
-</td>
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/-BloodHound-0A0A0A?style=flat-square&logo=neo4j&logoColor=ff0033" alt="BloodHound"/><br/>
-<sub><b>BloodHound</b></sub>
-</td>
-</tr>
-</table>
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=gnometerminal&logoColor=ff0033)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=portswigger&logoColor=ff6633)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=2596CD)
+![sqlmap](https://img.shields.io/badge/sqlmap-0d1117?style=flat-square&logo=databricks&logoColor=ff0033)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=1679A7)
+![Impacket](https://img.shields.io/badge/Impacket-0d1117?style=flat-square&logo=python&logoColor=ff0033)
+![Responder](https://img.shields.io/badge/Responder-0d1117?style=flat-square&logo=linux&logoColor=ff0033)
+![CrackMapExec](https://img.shields.io/badge/CrackMapExec-0d1117?style=flat-square&logo=windowsterminal&logoColor=ff0033)
+![Hydra](https://img.shields.io/badge/Hydra-0d1117?style=flat-square&logo=gnubash&logoColor=00ff41)
+![John](https://img.shields.io/badge/John_the_Ripper-0d1117?style=flat-square&logo=hashicorp&logoColor=ff0033)
+![Nuclei](https://img.shields.io/badge/Nuclei-0d1117?style=flat-square&logo=cloudflare&logoColor=ff0033)
+![BloodHound](https://img.shields.io/badge/BloodHound-0d1117?style=flat-square&logo=neo4j&logoColor=ff0033)
 
 <br/>
 
-### 🖥️ Dev & Infrastructure
+**`LANGUAGES & INFRASTRUCTURE`**
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python"/><br/>
-<sub><b>Python</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="Bash"/><br/>
-<sub><b>Bash</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript"/><br/>
-<sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript"/><br/>
-<sub><b>TypeScript</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js"/><br/>
-<sub><b>Next.js</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI"/><br/>
-<sub><b>FastAPI</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"/><br/>
-<sub><b>Docker</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL"/><br/>
-<sub><b>PostgreSQL</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" height="48" alt="Redis"/><br/>
-<sub><b>Redis</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux"/><br/>
-<sub><b>Linux</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=kali&theme=dark" width="48" height="48" alt="Kali"/><br/>
-<sub><b>Kali</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/><br/>
-<sub><b>Git</b></sub>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,bash,js,ts,nextjs,fastapi,docker,postgres,redis,linux,kali,git&theme=dark&perline=12" />
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+### `$ cat /proc/active_ops`
 
-## `> cat /var/log/featured_ops.log`
+```yaml
+operations:
+  - name: "Web Application Pentesting"
+    status: ACTIVE
+    scope: [ OWASP Top 10, API Security, Auth Bypass ]
+
+  - name: "Active Directory Exploitation"
+    status: ACTIVE
+    scope: [ Kerberoasting, Priv Esc, Lateral Movement ]
+
+  - name: "Pentra Platform"
+    status: IN_PROGRESS
+    scope: [ Autonomous Offensive Security Engine ]
+    stack: [ Next.js, FastAPI, Redis, PostgreSQL ]
+
+  - name: "CTF / Research"
+    status: CONTINUOUS
+    scope: [ pwn, web, forensics, crypto ]
+```
+
+---
+
+### `$ ./recon.sh --github-stats`
+
+<div align="center">
+
+<a href="https://github.com/Red0psD3v4rsh007">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Red0psD3v4rsh007&show_icons=true&theme=radical&bg_color=0d1117&border_color=1a1a2e&icon_color=ff0033&title_color=ff0033&text_color=a0a0a0&hide_border=false&count_private=true&include_all_commits=true&ring_color=ff0033" alt="GitHub Stats"/>
+</a>
+&nbsp;
+<a href="https://github.com/Red0psD3v4rsh007">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Red0psD3v4rsh007&layout=compact&theme=radical&bg_color=0d1117&border_color=1a1a2e&title_color=ff0033&text_color=a0a0a0&hide_border=false&langs_count=8" alt="Top Langs"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Red0psD3v4rsh007">
+  <img src="https://streak-stats.demolab.com/?user=Red0psD3v4rsh007&theme=radical&background=0d1117&border=1a1a2e&stroke=1a1a2e&ring=ff0033&fire=ff6633&currStreakNum=ffffff&sideNums=a0a0a0&currStreakLabel=ff0033&sideLabels=ff0033&dates=545454" alt="Streak"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Red0psD3v4rsh007">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Red0psD3v4rsh007&bg_color=0d1117&color=ff0033&line=ff0033&point=ffffff&area=true&area_color=ff003315&hide_border=true&custom_title=Commit%20Activity" alt="Activity Graph" width="95%"/>
+</a>
+
+</div>
+
+---
+
+### `$ cat /var/log/featured.log`
 
 <div align="center">
 
 <a href="https://github.com/Red0psD3v4rsh007/Pentra">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Red0psD3v4rsh007&repo=Pentra&theme=radical&bg_color=0d1117&border_color=ff0033&icon_color=ff0033&title_color=ff0033&text_color=c9d1d9" alt="Pentra"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Red0psD3v4rsh007&repo=Pentra&theme=radical&bg_color=0d1117&border_color=1a1a2e&icon_color=ff0033&title_color=ff0033&text_color=a0a0a0" alt="Pentra"/>
 </a>
 
-<br/><br/>
-
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   🧪  PENTRA — Autonomous Offensive Security Platform        ║
-║   ─────────────────────────────────────────────────           ║
-║   AI-powered penetration testing engine with real-time       ║
-║   command center UI. Coordinates recon, vuln scanning,       ║
-║   exploitation, and AI analysis through distributed          ║
-║   microservices. Built with Next.js, FastAPI, Redis,         ║
-║   PostgreSQL, and a full worker pipeline.                    ║
-║                                                              ║
-║   STATUS: ACTIVE DEVELOPMENT 🔴                              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+  PENTRA — Autonomous Offensive Security Platform
+  ═══════════════════════════════════════════════
+  AI-powered pentesting engine with real-time command
+  center UI. Distributed microservices architecture.
+  Next.js • FastAPI • Redis • PostgreSQL
+  STATUS: ACTIVE DEVELOPMENT ●
 ```
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> ./recon.sh --stats`
+### `$ cat /proc/contributions`
 
 <div align="center">
 
-<!-- GITHUB STATS -->
-<a href="https://github.com/Red0psD3v4rsh007">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Red0psD3v4rsh007&show_icons=true&theme=radical&bg_color=0d1117&border_color=ff0033&icon_color=ff0033&title_color=ff0033&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Red0psD3v4rsh007">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Red0psD3v4rsh007&layout=compact&theme=radical&bg_color=0d1117&border_color=ff0033&title_color=ff0033&text_color=c9d1d9&hide_border=false&langs_count=8" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<!-- STREAK STATS -->
-<a href="https://github.com/Red0psD3v4rsh007">
-  <img src="https://streak-stats.demolab.com/?user=Red0psD3v4rsh007&theme=radical&background=0d1117&border=ff0033&stroke=ff0033&ring=ff0033&fire=ff6633&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ff0033&sideLabels=ff0033&dates=545454" alt="Streak Stats"/>
-</a>
-
-<br/><br/>
-
-<!-- TROPHIES -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Red0psD3v4rsh007&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
-</a>
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-<a href="https://github.com/Red0psD3v4rsh007">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Red0psD3v4rsh007&bg_color=0d1117&color=ff0033&line=ff0033&point=ff6633&area=true&area_color=ff003322&hide_border=true&custom_title=Red0ps%20Commit%20Activity" alt="Activity Graph"/>
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> cat /proc/contributions`
-
-<div align="center">
-
-<!-- SNAKE ANIMATION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Red0psD3v4rsh007/Red0psD3v4rsh007/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Red0psD3v4rsh007/Red0psD3v4rsh007/output/github-snake.svg" />
@@ -316,42 +152,30 @@ current_focus:
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <div align="center">
 
-### 📡 Connect to the Network
-
-<br/>
-
 <a href="https://www.linkedin.com/in/devarshdalwadi">
-  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=ff0033" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff0033" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/Red0psD3v4rsh007">
-  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=ff0033" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:">
-  <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=protonmail&logoColor=ff0033" alt="Email"/>
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ff0033" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<!-- CAPSULE RENDER FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,1,1,1,30&height=120&section=footer&text=&fontSize=0" width="100%"/>
-
-<br/>
-
 ```
-┌──(root㉿red0ps)-[~/session]
-└─# echo "Connection established. Welcome, operator."
-Connection established. Welcome, operator.
-└─# █
+┌──(red0ps㉿kali)-[~]
+└─$ echo "Connection established."
+Connection established.
+└─$ █
 ```
 
-<sub>⚡ Handcrafted with malicious intent by <a href="https://github.com/Red0psD3v4rsh007">@Red0psD3v4rsh007</a></sub>
+<sub>built by <a href="https://github.com/Red0psD3v4rsh007">@Red0psD3v4rsh007</a></sub>
 
 </div>
+
+<!-- FOOTER: Matching wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0033,50:1a0000,100:0d1117&height=120&section=footer" width="100%"/>
