@@ -9,27 +9,18 @@
 
 <!-- ANIMATED TYPING -->
 <a href="https://github.com/Red0psD3v4rsh007">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=FF0033&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%94%8C%E2%94%80%E2%94%80(red0ps%E3%89%BFkali)-%5B~%5D;%24+whoami+%E2%86%92+Offensive+Security+Researcher;TryHackMe+Top+2%25+%E2%80%A2+190%2B+Rooms+%E2%80%A2+27+Badges;Building+Pentra+%E2%80%94+Autonomous+Pentest+Engine;%24+echo+%22Access+Granted.%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=FF0033&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%94%8C%E2%94%80%E2%94%80(red0ps%E3%89%BFkali)-%5B~%5D;%24+whoami+%E2%86%92+Offensive+Security+%2F%2F+Red+Team+Ops;TryHackMe+Top+2%25+%E2%80%A2+190%2B+Rooms+%E2%80%A2+27+Badges;Building+Pentra+%E2%80%94+Autonomous+Pentest+Engine;%24+echo+%22Access+Granted.%22" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- SOCIAL ROW -->
-<a href="https://www.linkedin.com/in/devarshdalwadi">
-  <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=ff0033" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://tryhackme.com/p/Red0psD3v4rsh007">
-  <img src="https://img.shields.io/badge/-TryHackMe-0d1117?style=flat-square&logo=tryhackme&logoColor=ff0033" alt="TryHackMe"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://cryptohack.org/user/Red0psD3v4rsh007/">
-  <img src="https://img.shields.io/badge/-CryptoHack-0d1117?style=flat-square&logo=letsencrypt&logoColor=ff0033" alt="CryptoHack"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Red0psD3v4rsh007">
-  <img src="https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=ff0033" alt="GitHub"/>
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/devarshdalwadi"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></a>
+  <a href="https://tryhackme.com/p/Red0psD3v4rsh007"><img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=ffffff" alt="TryHackMe"/></a>
+  <a href="https://cryptohack.org/user/Red0psD3v4rsh007/"><img src="https://img.shields.io/badge/CryptoHack-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=ffffff" alt="CryptoHack"/></a>
+  <a href="https://github.com/Red0psD3v4rsh007"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/></a>
+</div>
 
 <br/><br/>
 
@@ -48,19 +39,6 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- STITCH AI IDENTITY CARD                                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<a href="https://github.com/Red0psD3v4rsh007">
-  <img src="./assets/stitch_card.png" alt="Red0ps Identity Card" width="80%"/>
-</a>
-
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- IDENTITY                                                    -->
@@ -300,11 +278,11 @@ operations:
 
   AD PENTEST LAB — Self-Hosted Windows Environment
 
-  Simulated enterprise AD for practicing real-world attack paths:
-  Kerberoasting • AS-REP Roasting • LLMNR/NBT-NS Poisoning
-  NTLM Relay • Pass-the-Hash • Pass-the-Ticket • Golden Ticket
+  Simulated enterprise AD for practicing real-world attack paths
+  with a focus on lateral movement and privilege escalation.
 
-  Env: Windows Server + Workstations (VirtualBox)
+  Stack: Windows Server 2019 • Windows 10 • Active Directory
+  Tools: BloodHound • CrackMapExec • Impacket • Mimikatz
   Status: OPERATIONAL ●
 ```
 
@@ -359,7 +337,8 @@ operations:
 ```
 ┌──(red0ps㉿kali)-[~]
 └─$ echo "Thanks for stopping by. Stay sharp, stay offensive."
-  Thanks for stopping by. Stay sharp, stay offensive.
+Thanks for stopping by. Stay sharp, stay offensive.
+└─$ █
 ```
 
 </div>
