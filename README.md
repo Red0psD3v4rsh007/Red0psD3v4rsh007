@@ -2,14 +2,14 @@
 <!--               R E D 0 P S  //  D E V A R S H              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- CUSTOM BANNER -->
-<img src="./assets/banner.png" width="100%"/>
+<!-- HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0000,100:ff0033&height=180&section=header&text=DEVARSH&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Offensive%20Security%20//%20Red%20Team%20Ops&descSize=16&descColor=ff0033&descAlignY=55" width="100%"/>
 
 <div align="center">
 
-<!-- ANIMATED TYPING: the first thing visitors see -->
+<!-- ANIMATED TYPING -->
 <a href="https://github.com/Red0psD3v4rsh007">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=FF0033&center=true&vCenter=true&repeat=true&width=700&height=50&lines=%E2%94%8C%E2%94%80%E2%94%80(red0ps%E3%89%BFkali)-%5B~%5D;%24+whoami+%E2%86%92+Offensive+Security+%7C+Red+Team+Ops;TryHackMe+Top+2%25+%E2%80%A2+190%2B+Rooms+%E2%80%A2+27+Badges;Building+Pentra+%E2%80%94+Autonomous+Pentest+Engine;%24+echo+%22Access+Granted.%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=FF0033&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%94%8C%E2%94%80%E2%94%80(red0ps%E3%89%BFkali)-%5B~%5D;%24+whoami+%E2%86%92+Offensive+Security+Researcher;TryHackMe+Top+2%25+%E2%80%A2+190%2B+Rooms+%E2%80%A2+27+Badges;Building+Pentra+%E2%80%94+Autonomous+Pentest+Engine;%24+echo+%22Access+Granted.%22" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -33,7 +33,7 @@
 
 <br/><br/>
 
-<!-- QUICK STATS ROW -->
+<!-- QUICK STATS -->
 <img src="https://komarev.com/ghpvc/?username=Red0psD3v4rsh007&label=PROFILE+VIEWS&color=ff0033&style=flat-square&labelColor=0d1117" alt="Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/Red0psD3v4rsh007?label=Followers&style=flat-square&color=ff0033&labelColor=0d1117&logo=github&logoColor=ffffff" alt="Followers"/>
@@ -49,25 +49,35 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
+<!-- STITCH AI IDENTITY CARD                                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<a href="https://github.com/Red0psD3v4rsh007">
+  <img src="./assets/stitch_card.png" alt="Red0ps Identity Card" width="80%"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
 <!-- IDENTITY                                                    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ```
- ╔═══════════════════════════════════════════════════════════════════════╗
- ║                                                                       ║
- ║  ┌──(red0ps㉿kali)-[~/whoami]                                        ║
- ║  └─$ cat /etc/shadow                                                  ║
- ║                                                                       ║
- ║  Name        Devarsh Dalwadi                                          ║
- ║  Alias       Red0ps                                                   ║
- ║  Class       Offensive Security Student & Researcher                  ║
- ║  Focus       Penetration Testing • Web Security • AD Attacks          ║
- ║  Training    TryHackMe Top 2% • PortSwigger • CryptoHack             ║
- ║  Building    Pentra — Autonomous Offensive Security Platform          ║
- ║                                                                       ║
- ║  "I don't find bugs. I find entry points."                            ║
- ║                                                                       ║
- ╚═══════════════════════════════════════════════════════════════════════╝
+┌──(red0ps㉿kali)-[~/whoami]
+└─$ cat /etc/shadow
+
+  Name        Devarsh Dalwadi
+  Alias       Red0ps
+  Class       Offensive Security Student & Researcher
+  Focus       Penetration Testing • Web Security • AD Attacks
+  Training    TryHackMe Top 2% • PortSwigger • CryptoHack
+  Building    Pentra — Autonomous Offensive Security Platform
+
+  "I don't find bugs. I find entry points."
 ```
 
 <br/>
@@ -220,7 +230,6 @@ operations:
 
 <div align="center">
 
-<!-- STATS BADGES -->
 ![Stars](https://img.shields.io/github/stars/Red0psD3v4rsh007?style=for-the-badge&color=ff0033&labelColor=0d1117&logo=github&logoColor=ffffff&label=Stars)
 &nbsp;
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRed0psD3v4rsh007&query=%24.public_repos&style=for-the-badge&color=ff0033&labelColor=0d1117&logo=github&logoColor=ffffff&label=Repos)
@@ -272,36 +281,31 @@ operations:
 </div>
 
 ```
- ╔═══════════════════════════════════════════════════════════════════════╗
- ║                                                                       ║
- ║  PENTRA — PTaaS-Style Automated Security Testing Platform            ║
- ║  ════════════════════════════════════════════════                      ║
- ║                                                                       ║
- ║  Automated web application security testing with attack-path          ║
- ║  visualization (xyflow), vulnerability reporting pipelines,           ║
- ║  and interactive dashboards for recon & structured pentesting.        ║
- ║                                                                       ║
- ║  Stack: Next.js • TypeScript • Tailwind • FastAPI • Redis • PG       ║
- ║  UI:    Obsidian Design System (dark-mode command center)            ║
- ║  Status: ACTIVE DEVELOPMENT ●                                        ║
- ║                                                                       ║
- ╚═══════════════════════════════════════════════════════════════════════╝
+┌──(red0ps㉿kali)-[~/projects/pentra]
+└─$ cat README.md
+
+  PENTRA — PTaaS-Style Automated Security Testing Platform
+
+  Automated web security testing with attack-path visualization,
+  vulnerability reporting pipelines, and interactive dashboards.
+
+  Stack: Next.js • TypeScript • Tailwind • FastAPI • Redis • PG
+  UI:    Obsidian Design System (dark-mode command center)
+  Status: ACTIVE DEVELOPMENT ●
 ```
 
 ```
- ╔═══════════════════════════════════════════════════════════════════════╗
- ║                                                                       ║
- ║  AD PENTEST LAB — Self-Hosted Windows Environment                    ║
- ║  ════════════════════════════════════════════════                      ║
- ║                                                                       ║
- ║  Simulated enterprise AD for practicing real-world attack paths:     ║
- ║  Kerberoasting • AS-REP Roasting • LLMNR/NBT-NS Poisoning           ║
- ║  NTLM Relay • Pass-the-Hash • Pass-the-Ticket • Golden Ticket       ║
- ║                                                                       ║
- ║  Env: Windows Server + Workstations (VirtualBox)                     ║
- ║  Status: OPERATIONAL ●                                                ║
- ║                                                                       ║
- ╚═══════════════════════════════════════════════════════════════════════╝
+┌──(red0ps㉿kali)-[~/projects/ad-lab]
+└─$ cat README.md
+
+  AD PENTEST LAB — Self-Hosted Windows Environment
+
+  Simulated enterprise AD for practicing real-world attack paths:
+  Kerberoasting • AS-REP Roasting • LLMNR/NBT-NS Poisoning
+  NTLM Relay • Pass-the-Hash • Pass-the-Ticket • Golden Ticket
+
+  Env: Windows Server + Workstations (VirtualBox)
+  Status: OPERATIONAL ●
 ```
 
 <br/>
@@ -355,8 +359,7 @@ operations:
 ```
 ┌──(red0ps㉿kali)-[~]
 └─$ echo "Thanks for stopping by. Stay sharp, stay offensive."
-Thanks for stopping by. Stay sharp, stay offensive.
-└─$ █
+  Thanks for stopping by. Stay sharp, stay offensive.
 ```
 
 </div>
