@@ -280,7 +280,7 @@ current_focus:
 
 <!-- STREAK STATS -->
 <a href="https://github.com/Red0psD3v4rsh007">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Red0psD3v4rsh007&theme=radical&background=0d1117&border=ff0033&stroke=ff0033&ring=ff0033&fire=ff6633&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ff0033&sideLabels=ff0033&dates=545454" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Red0psD3v4rsh007&theme=radical&background=0d1117&border=ff0033&stroke=ff0033&ring=ff0033&fire=ff6633&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ff0033&sideLabels=ff0033&dates=545454" alt="Streak Stats"/>
 </a>
 
 <br/><br/>
