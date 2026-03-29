@@ -9,7 +9,7 @@
 
 <!-- ANIMATED TYPING -->
 <a href="https://github.com/Red0psD3v4rsh007">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=FF0033&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%94%8C%E2%94%80%E2%94%80(red0ps%E3%89%BFkali)-%5B~%5D;%24+whoami+%E2%86%92+Offensive+Security+%2F%2F+Red+Team+Ops;TryHackMe+Top+2%25+%E2%80%A2+190%2B+Rooms+%E2%80%A2+27+Badges;Building+Pentra+%E2%80%94+Autonomous+Pentest+Engine;%24+echo+%22Access+Granted.%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=FF0033&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%94%8C%E2%94%80%E2%94%80(red0ps%E3%89%BFkali)-%5B~%5D;%24+whoami+%E2%86%92+Offensive+Security+Ops;TryHackMe+Top+2%25+%E2%80%A2+190%2B+Rooms+%E2%80%A2+27+Badges;Building+Pentra+%E2%80%94+Autonomous+Pentest+Engine;%24+echo+%22Access+Granted.%22" alt="Typing SVG" />
 </a>
 
 <br/><br/>
