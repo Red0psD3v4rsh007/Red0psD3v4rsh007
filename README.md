@@ -8,7 +8,7 @@
 <div align="center">
 
 <a href="https://github.com/Red0psD3v4rsh007">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=FF0033&center=true&vCenter=true&repeat=true&width=550&height=30&lines=%24+whoami+%E2%86%92+Offensive+Security+Student+%2F%2F+Researcher;TryHackMe+Top+2%25+%C2%B7+190%2B+Rooms+%C2%B7+27+Badges;Building+Pentra+%E2%80%94+Autonomous+Pentest+Engine;root%40kali%3A~%23+Access+Granted." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=FF0033&center=true&vCenter=true&repeat=true&width=550&height=30&lines=%24+whoami+%E2%86%92+Offensive+Security+Student+%2F%2F+Researcher;TryHackMe+Top+2%25+%C2%B7+191%2B+Rooms+%C2%B7+27+Badges;Building+Pentra+%E2%80%94+Autonomous+Pentest+Engine;root%40kali%3A~%23+Access+Granted." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -62,7 +62,7 @@
 
 <br/><br/>
 
-![THM](https://img.shields.io/badge/TryHackMe-Top_2%25_•_190+_Rooms_•_27_Badges-ff0033?style=for-the-badge&logo=tryhackme&logoColor=ffffff&labelColor=0d1117)
+![THM](https://img.shields.io/badge/TryHackMe-Top_2%25_•_191+_Rooms_•_27_Badges-ff0033?style=for-the-badge&logo=tryhackme&logoColor=ffffff&labelColor=0d1117)
 
 <br/>
 
@@ -111,7 +111,7 @@ operations:
 
   - name: "CTF / Research"
     status: CONTINUOUS
-    platforms: [ TryHackMe (190+ rooms), CryptoHack, PortSwigger ]
+    platforms: [ TryHackMe (191+ rooms), CryptoHack, PortSwigger ]
     domains: [ web, OSINT, crypto, forensics, privilege escalation ]
 ```
 
