@@ -9,20 +9,18 @@
 
 <!-- ANIMATED TYPING -->
 <a href="https://github.com/Red0psD3v4rsh007">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=FF0033&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%94%8C%E2%94%80%E2%94%80(red0ps%E3%89%BFkali)-%5B~%5D;%24+whoami+%E2%86%92+Offensive+Security+Ops;TryHackMe+Top+2%25+%E2%80%A2+190%2B+Rooms+%E2%80%A2+27+Badges;Building+Pentra+%E2%80%94+Autonomous+Pentest+Engine;%24+echo+%22Access+Granted.%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%24+whoami+%E2%86%92+Offensive+Security+%7C+Red+Team;TryHackMe+Top+2%25+%E2%80%A2+190%2B+Rooms+%E2%80%A2+27+Badges;Building+Pentra+%E2%80%94+Autonomous+Pentest+Engine;Hack+The+Planet." alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- SOCIAL ROW -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/devarshdalwadi"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></a>
-  <a href="https://tryhackme.com/p/Red0psD3v4rsh007"><img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=ffffff" alt="TryHackMe"/></a>
-  <a href="https://cryptohack.org/user/Red0psD3v4rsh007/"><img src="https://img.shields.io/badge/CryptoHack-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=ffffff" alt="CryptoHack"/></a>
-  <a href="https://github.com/Red0psD3v4rsh007"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/></a>
-</div>
+<a href="https://www.linkedin.com/in/devarshdalwadi"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></a>
+<a href="https://tryhackme.com/p/Red0psD3v4rsh007"><img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=ffffff" alt="TryHackMe"/></a>
+<a href="https://cryptohack.org/user/Red0psD3v4rsh007/"><img src="https://img.shields.io/badge/CryptoHack-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=ffffff" alt="CryptoHack"/></a>
+<a href="https://github.com/Red0psD3v4rsh007"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/></a>
 
-<br/><br/>
+<br/>
 
 <!-- QUICK STATS -->
 <img src="https://komarev.com/ghpvc/?username=Red0psD3v4rsh007&label=PROFILE+VIEWS&color=ff0033&style=flat-square&labelColor=0d1117" alt="Views"/>
@@ -33,12 +31,7 @@
 
 </div>
 
-<br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
-
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- IDENTITY                                                    -->
@@ -58,21 +51,15 @@
   "I don't find bugs. I find entry points."
 ```
 
-<br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- CERTIFICATIONS                                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
 ### `> cat /etc/certs.d/`
 
-<br/>
+<div align="center">
 
 <a href="https://tryhackme.com/p/Red0psD3v4rsh007">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Red0psD3v4rsh007.png" alt="TryHackMe" height="90"/>
@@ -94,11 +81,7 @@
 
 </div>
 
-<br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- ACTIVE OPERATIONS                                          -->
@@ -137,11 +120,7 @@ operations:
     domains: [ web, OSINT, crypto, forensics, privilege escalation ]
 ```
 
-<br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- ARSENAL                                                    -->
@@ -194,11 +173,7 @@ operations:
 
 </div>
 
-<br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- GITHUB STATS                                               -->
@@ -230,33 +205,13 @@ operations:
 
 </div>
 
-<br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- FEATURED PROJECTS                                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ### `> cat /var/log/projects.log`
-
-<div align="center">
-
-<a href="https://github.com/Red0psD3v4rsh007/Pentra">
-  <img src="https://img.shields.io/badge/🔴_PENTRA-Autonomous_Offensive_Security_Platform-ff0033?style=for-the-badge&labelColor=0d1117" alt="Pentra"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Red0psD3v4rsh007/Pentra"><img src="https://img.shields.io/github/stars/Red0psD3v4rsh007/Pentra?style=flat-square&color=ff0033&labelColor=0d1117&logo=github" alt="Stars"/></a>
-&nbsp;
-<a href="https://github.com/Red0psD3v4rsh007/Pentra"><img src="https://img.shields.io/github/last-commit/Red0psD3v4rsh007/Pentra?style=flat-square&color=ff0033&labelColor=0d1117&logo=git&logoColor=ffffff" alt="Commit"/></a>
-&nbsp;
-<a href="https://github.com/Red0psD3v4rsh007/Pentra"><img src="https://img.shields.io/github/languages/top/Red0psD3v4rsh007/Pentra?style=flat-square&color=ff0033&labelColor=0d1117" alt="Lang"/></a>
-
-</div>
 
 ```
 ┌──(red0ps㉿kali)-[~/projects/pentra]
@@ -286,11 +241,7 @@ operations:
   Status: OPERATIONAL ●
 ```
 
-<br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- CONTRIBUTION SNAKE                                         -->
@@ -308,11 +259,7 @@ operations:
 
 </div>
 
-<br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- HACKER QUOTE                                               -->
@@ -327,21 +274,6 @@ operations:
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- FOOTER                                                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-┌──(red0ps㉿kali)-[~]
-└─$ echo "Thanks for stopping by. Stay sharp, stay offensive."
-Thanks for stopping by. Stay sharp, stay offensive.
-└─$ █
-```
-
-</div>
 
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0033,50:1a0000,100:0d1117&height=120&section=footer" width="100%"/>
