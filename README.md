@@ -9,7 +9,7 @@
 
 <!-- ANIMATED TYPING -->
 <a href="https://github.com/Red0psD3v4rsh007">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%24+whoami+%E2%86%92+Offensive+Security+Student+&+Researcher;TryHackMe+Top+2%25+%E2%80%A2+190%2B+Rooms+%E2%80%A2+27+Badges;Building+Pentra+%E2%80%94+Autonomous+Pentest+Engine;Hack+The+Planet." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%24+whoami+%E2%86%92+Offensive+Security+Student+%2F%2F+Researcher;TryHackMe+Top+2%25+%E2%80%A2+190%2B+Rooms+%E2%80%A2+27+Badges;Building+Pentra+%E2%80%94+Autonomous+Pentest+Engine;Hack+The+Planet." alt="Typing SVG" />
 </a>
 
 <br/>
