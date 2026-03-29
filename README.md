@@ -7,18 +7,21 @@
 
 <div align="center">
 
-<!-- ANIMATED TYPING -->
 <a href="https://github.com/Red0psD3v4rsh007">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=FF0033&center=true&vCenter=true&repeat=true&width=550&height=30&lines=%24+whoami+%E2%86%92+Offensive+Security+Student+%2F%2F+Researcher;TryHackMe+Top+2%25+%C2%B7+190%2B+Rooms+%C2%B7+27+Badges;Building+Pentra+%E2%80%94+Autonomous+Pentest+Engine;%E2%80%9CThe+quieter+you+become%2C+the+more+you+hear.%E2%80%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=FF0033&center=true&vCenter=true&repeat=true&width=550&height=30&lines=%24+whoami+%E2%86%92+Offensive+Security+Student+%2F%2F+Researcher;TryHackMe+Top+2%25+%C2%B7+190%2B+Rooms+%C2%B7+27+Badges;Building+Pentra+%E2%80%94+Autonomous+Pentest+Engine;root%40kali%3A~%23+Access+Granted." alt="Typing SVG" />
 </a>
-<a href="https://www.linkedin.com/in/devarshdalwadi"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></a>
-<a href="https://tryhackme.com/p/Red0psD3v4rsh007"><img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=ffffff" alt="TryHackMe"/></a>
-<a href="https://cryptohack.org/user/Red0psD3v4rsh007/"><img src="https://img.shields.io/badge/CryptoHack-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=ffffff" alt="CryptoHack"/></a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/devarshdalwadi"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></a>&nbsp;
+<a href="https://tryhackme.com/p/Red0psD3v4rsh007"><img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=ffffff" alt="TryHackMe"/></a>&nbsp;
+<a href="https://cryptohack.org/user/Red0psD3v4rsh007/"><img src="https://img.shields.io/badge/CryptoHack-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=ffffff" alt="CryptoHack"/></a>&nbsp;
 <a href="https://github.com/Red0psD3v4rsh007"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/></a>
-<img src="https://komarev.com/ghpvc/?username=Red0psD3v4rsh007&label=PROFILE+VIEWS&color=ff0033&style=flat-square&labelColor=0d1117" alt="Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Red0psD3v4rsh007?label=Followers&style=flat-square&color=ff0033&labelColor=0d1117&logo=github&logoColor=ffffff" alt="Followers"/>
-&nbsp;
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Red0psD3v4rsh007&label=PROFILE+VIEWS&color=ff0033&style=flat-square&labelColor=0d1117" alt="Views"/>&nbsp;
+<img src="https://img.shields.io/github/followers/Red0psD3v4rsh007?label=Followers&style=flat-square&color=ff0033&labelColor=0d1117&logo=github&logoColor=ffffff" alt="Followers"/>&nbsp;
 <img src="https://img.shields.io/badge/TryHackMe-Top_2%25-ff0033?style=flat-square&logo=tryhackme&logoColor=ffffff&labelColor=0d1117" alt="THM"/>
 
 </div>
