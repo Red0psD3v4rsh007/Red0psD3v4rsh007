@@ -105,24 +105,16 @@ operations:
 
 <div align="center">
 
-<!-- STATS: Using GitHub's own API through readme-stats -->
-<a href="https://github.com/Red0psD3v4rsh007">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Red0psD3v4rsh007&show_icons=true&bg_color=0d1117&border_color=1a1a2e&icon_color=ff0033&title_color=ff0033&text_color=a0a0a0&ring_color=ff0033&count_private=true&include_all_commits=true&hide_border=false" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Red0psD3v4rsh007&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  </picture>
-</a>
+<!-- GITHUB STATS via shields.io — these NEVER break -->
+![Stars](https://img.shields.io/github/stars/Red0psD3v4rsh007?style=for-the-badge&color=ff0033&labelColor=0d1117&logo=github&logoColor=ffffff&label=Total%20Stars)
 &nbsp;
-<a href="https://github.com/Red0psD3v4rsh007">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Red0psD3v4rsh007&layout=compact&bg_color=0d1117&border_color=1a1a2e&title_color=ff0033&text_color=a0a0a0&hide_border=false&langs_count=8" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Red0psD3v4rsh007&layout=compact&langs_count=8" alt="Top Langs"/>
-  </picture>
-</a>
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRed0psD3v4rsh007&query=%24.public_repos&style=for-the-badge&color=ff0033&labelColor=0d1117&logo=github&logoColor=ffffff&label=Repos)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Red0psD3v4rsh007?style=for-the-badge&color=ff0033&labelColor=0d1117&logo=github&logoColor=ffffff)
 
 <br/><br/>
 
-<!-- STREAK STATS: Using demolab.com (reliable) -->
+<!-- STREAK STATS: Via demolab.com (reliable) -->
 <a href="https://github.com/Red0psD3v4rsh007">
   <img src="https://streak-stats.demolab.com/?user=Red0psD3v4rsh007&theme=radical&background=0d1117&border=1a1a2e&stroke=1a1a2e&ring=ff0033&fire=ff6633&currStreakNum=ffffff&sideNums=a0a0a0&currStreakLabel=ff0033&sideLabels=ff0033&dates=545454" alt="Streak"/>
 </a>
@@ -143,7 +135,19 @@ operations:
 <div align="center">
 
 <a href="https://github.com/Red0psD3v4rsh007/Pentra">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Red0psD3v4rsh007&repo=Pentra&bg_color=0d1117&border_color=1a1a2e&icon_color=ff0033&title_color=ff0033&text_color=a0a0a0" alt="Pentra"/>
+  <img src="https://img.shields.io/badge/🔴_PENTRA-Autonomous_Offensive_Security_Platform-ff0033?style=for-the-badge&labelColor=0d1117" alt="Pentra"/>
+</a>
+<br/>
+<a href="https://github.com/Red0psD3v4rsh007/Pentra">
+  <img src="https://img.shields.io/github/stars/Red0psD3v4rsh007/Pentra?style=flat-square&color=ff0033&labelColor=0d1117&logo=github" alt="Stars"/>
+</a>
+&nbsp;
+<a href="https://github.com/Red0psD3v4rsh007/Pentra">
+  <img src="https://img.shields.io/github/last-commit/Red0psD3v4rsh007/Pentra?style=flat-square&color=ff0033&labelColor=0d1117&logo=git&logoColor=ffffff" alt="Last Commit"/>
+</a>
+&nbsp;
+<a href="https://github.com/Red0psD3v4rsh007/Pentra">
+  <img src="https://img.shields.io/github/languages/top/Red0psD3v4rsh007/Pentra?style=flat-square&color=ff0033&labelColor=0d1117" alt="Language"/>
 </a>
 
 </div>
