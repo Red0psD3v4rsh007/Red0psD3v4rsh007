@@ -16,7 +16,6 @@
 <a href="https://www.linkedin.com/in/devarshdalwadi"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></a>&nbsp;
 <a href="https://tryhackme.com/p/Red0psD3v4rsh007"><img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=ffffff" alt="TryHackMe"/></a>&nbsp;
 <a href="https://cryptohack.org/user/Red0psD3v4rsh007/"><img src="https://img.shields.io/badge/CryptoHack-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=ffffff" alt="CryptoHack"/></a>&nbsp;
-<a href="https://github.com/Red0psD3v4rsh007"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/></a>
 
 <br/>
 
