@@ -41,8 +41,6 @@
   Focus       Penetration Testing • Web Security • AD Attacks
   Training    TryHackMe Top 2% • PortSwigger • CryptoHack
   Building    Pentra — Autonomous Offensive Security Platform
-
-  "I don't find bugs. I find entry points."
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
